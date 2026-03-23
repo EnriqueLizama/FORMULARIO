@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+
+.borde{
+  border: 3px rebeccapurple solid;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.margen{
+  padding: 15px;
+}
+
+.centrar{
+  text-align: center;
+}
+
+.negritas{
+  font-weight: bold;
+}
+
+.letra{
+  font-weight: normal;
+}
+
+.fondo{
+  background-color: gray;
+}
+
+.titu{
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.titulo1{
+font-size: 30px;
+font-weight: bold;
+margin: 20px;
+}
+
+.btn1{
+  max-width: 90%;
+  border-radius: 10px;
+  padding: 15px 200px;
+  margin: 10px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.act1{
+  max-width: 90%;
+}
+
+.act2{
+  max-width: 90%;
+}
+
+.texto{
+  font-size: 18px;
+
+}
+
+.btn2{
+  border: 0;
+  border-radius: 10px;
+  padding: 15px 50px;
+  margin: 10px;
+  font-size: 18px;
+  background-color: yellowgreen;
+}
